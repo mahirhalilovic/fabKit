@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "name": "uBitFabKit",
+    "description": "BOM creation",
+    "description_full": "Somewhat automated bill of materials creation.",
+    "identifier": "com.github.mahirhalilovic.fabKit",
+    "type": "plugin",
+    "author": {
+        "name": "MicroBitDesign",
+        "contact": {
+            "web": "https://www.microbitdesign.com/"
+        }
+    },
+    "maintainer": {
+        "name": "Mahir Halilovic",
+        "contact": {
+            "web": "https://www.microbitdesign.com/"
+        }
+    },
+    "license": "open-source",
+    "resources": {
+        "homepage": "https://github.com/mahirhalilovic/fabKit.git"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "development",
+            "kicad_version": "6.0"
+        }
+    ]
+}
